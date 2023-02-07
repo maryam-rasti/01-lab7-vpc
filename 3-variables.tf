@@ -1,6 +1,6 @@
 #AWS Region : us-east-1
 variable "aws_region" {
-  default = "us-west-1"
+  default = "us-west-2"
 }
 
 # Environment Variable
